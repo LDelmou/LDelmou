@@ -33,6 +33,27 @@ MySQL / SQL Server / MongoDB
 #### Lingagens: 
 Java / ABAP / C++ 
 
+### Principais Projetos:
+#
+#### Torder
+Sistema de gerenciamento de reservas para restaurantes. E também meu projeto de Conclusão de curso.
+<div> 
+    <a href="https://github.com/LDelmou/torder-api">Toder Front-End
+    </a></br>
+    <a href="https://github.com/LDelmou/torder-api">Toder Back-end
+    </a>
+</div>
+
+#### Novo Horizonte
+Sistema de gerenciamento de corridas de taxi para companhias prividas.
+
+<div> 
+    <a href="https://github.com/Garoa-Chuva/NewHorizon-app"> Novo Horizonte Front-End
+    </a></br>
+    <a href="https://github.com/Garoa-Chuva/NewHorizon-api"> Novo Horizonte Back-end
+    </a>
+</div>
+
 ### Redes/Contatos:
 #
 - [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasdelmartins@gmail.com)
