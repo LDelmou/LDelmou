@@ -17,7 +17,7 @@ Other technologies that I also have knowledge of:
  ### Database:
 *MySQL* / *SQL Server* / *MongoDB*
 
-### Languages:
+## Languages:
 *Java* / *ABAP* / *C++*
 
 ## Main Projects:
