@@ -50,7 +50,7 @@ Sistema de gerenciamento de corridas de taxi para companhias prividas.
 <div> 
     <a href="https://github.com/Garoa-Chuva/NewHorizon-app"> Novo Horizonte Front-End
     </a></br>
-    <a href="https://github.com/Garoa-Chuva/NewHorizon-Api"> Novo Horizonte Back-end
+    <a href="https://github.com/Garoa-Chuva/newHorizonApi"> Novo Horizonte Back-end
     </a>
 </div>
 
